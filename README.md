@@ -8,7 +8,7 @@ Site institucional com informações sobre os serviços odontológicos oferecido
 
 ## Domínio
 
-Este site está configurado para o domínio: `drajoycenicodemos.com`
+Este site está configurado para o domínio: `odontojoyce.com.br`
 
 ## Hospedagem
 
